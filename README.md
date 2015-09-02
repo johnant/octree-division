@@ -24,4 +24,4 @@ The current, parallel implementation is written in C with two different techniqu
 * p-threads
 
 # Input
-The Nx3 array of the 3D points and the number S are set within the source code.
+The Nx3 array of the 3D points and the number S can be set within the source code.
